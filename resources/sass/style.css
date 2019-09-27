@@ -1,0 +1,20 @@
+html,body{
+	background-color: #e30e6a;
+	overflow-x: hidden;
+}
+.c1{
+	background: #e30e6a;
+}
+.card{
+	background-color: white;
+	margin-top: 80px;
+}
+button{
+	background: #e30e6a;
+}
+i{
+	background: none;
+}
+h1{
+	text-shadow: 2px 3px 5px white;
+}
